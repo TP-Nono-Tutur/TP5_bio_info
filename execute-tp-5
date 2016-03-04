@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#Compilation
+make
+
+################# PARTIE 1 ###################
+# Question 1
+echo "Question 1 ==================="
